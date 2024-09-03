@@ -9,3 +9,7 @@ $ git add .
 $ git commit -m "Nachricht"
 $ git push
 ``` 
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
